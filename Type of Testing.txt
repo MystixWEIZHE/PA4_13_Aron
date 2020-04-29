@@ -1,0 +1,7 @@
+Unit Testing is the execution of a complete class, routine or small program that has been written by a single programmer or a team of programmer, which is tested in isolation from the more complete system.
+
+Unit testing is conducted by developer
+
+It is a type of whitebox testing 
+
+
